@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @QuixoticPenguin
+- 👀 I’m interested in drawing and some coding
+- 🌱 I’m currently learning Java and Digital Art
+- 📫 How to reach me: infoquixoticpenguin@gmail.com
